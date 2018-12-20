@@ -1,6 +1,6 @@
 # OpenGL starting point
 
-![preview.PNG](preview)
+![preview.PNG](preview.PNG)
 
 This was written in the summer of 2016(?), with the goal of getting a rendering pipeline, as well as effect generators, set up, such that a demo for Solskogen 2017 would be possible.
 
